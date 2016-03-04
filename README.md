@@ -12,4 +12,8 @@ Python, C, and C++ programs all of which work together to provide a responsive
 information system that is accessible by students (through the SOA facility) and
 staff.
 
+In contrast, AthenaSIS aims to be a portable system which can be deployed to any of
+Linux, Windows, or OSX systems. It also aims to use C++ exclusively, mostly because of
+philosophical reasons.
+
 This document serves only as an announcement.
