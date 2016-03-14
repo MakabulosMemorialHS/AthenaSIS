@@ -1,0 +1,28 @@
+14 March 2016
+----------------------------------------------------------------------------
+-- Work restarted on this project. Too busy during the last few days.
+
+-- Need to find a UML modeller for Ubuntu. Actually, a simple ERD diagram
+   editor would do. Any suggestions?
+
+-- I have decided to use the same schema being used by ISIS but with
+   modifications. ISIS has two databases, permanent, and accounting but
+   experience suggests it is better to combine this two into one database
+   but with the same tables.
+
+-- I used pg_dump to dump the schema of permanent and accounting.
+
+
+4 March 2016
+----------------------------------------------------------------------------
+-- Start work on Athena SIS.
+
+-- First item that needs to be accomplished is to test ability of
+   the version of Qt currently installed to access a PostgreSQL server.
+
+-- Explore possibility of using French to write these NOTES.
+
+-- Documentation suggests that the libqt4-sql package should be installed
+   if one wishes to acquire integration with SQL databases. This package is
+   included in my install.
+
